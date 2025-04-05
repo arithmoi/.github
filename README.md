@@ -57,6 +57,7 @@ Join our community and stay updated on our latest research and publications:
 - 📝 **Substack**: [The Arithmoi Foundation](https://substack.com/@thearithmoifoundation)
 - 🐦 **X**: [@LearnArithmoi](https://x.com/LearnArithmoi)
 - 📚 **Medium**: [The Arithmoi Foundation](https://medium.com/@thearithmoifoundation)
+- 💻 **GitHub**: [arithmoi](https://github.com/arithmoi)
 - 📧 **Email**: [admin@arithmoi.org](mailto:admin@arithmoi.org)
 
 ## 👥 Contributing
