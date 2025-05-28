@@ -17,7 +17,6 @@
 - [🚀 Upcoming Projects](#-upcoming-projects)
 - [🔗 Connect With Us](#-connect-with-us)
 - [👥 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 🔍 About Us
 
@@ -63,7 +62,3 @@ Join our community and stay updated on our latest research and publications:
 ## 👥 Contributing
 
 We welcome contributions from researchers, educators, and enthusiasts who share our passion for exploring the foundations of mathematics and physics. If you're interested in collaborating, please reach out to us at [admin@arithmoi.org](mailto:admin@arithmoi.org).
-
-## 📄 License
-
-This project is licensed under the terms of the license found in the [LICENSE](LICENSE) file in the repository root.
